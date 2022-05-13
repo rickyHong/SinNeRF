@@ -1,4 +1,4 @@
-# SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image
+# SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image, 
 
 [[Paper]](https://arxiv.org/abs/2204.00928) [[Website]](https://vita-group.github.io/SinNeRF/)
 
